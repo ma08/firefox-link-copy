@@ -1,12 +1,18 @@
 ##Google Search, Facebook Chat and Hangouts(in Gmail)- Link Copy - (For Firefox)
 
+[Get this on Mozilla's Addon space](https://addons.mozilla.org/en-US/firefox/addon/copy-real-url/)
+
+To install manually, just press `Ctrl+O (Cmd+O for Mac)` and open the `.xpi`
+file.
+
+To build the `.xpi` from source, download the addon sdk for firefox and
+run `<path to cfx> xpi`
+
 This is just a firefox version of [chrome-link-copy](https://github.com/ma08/chrome-link-copy)
 
 I was fed up of the redirection urls google gives on its search results - making it a chore to copy the link address.
 As I am now using firefox as the default broswer, I decided to write the firefox
 version of this add on
-
-
 
 A tiny extension for `Firefox` to make copying links from google pain free.
 Generally when you right click a link on google search and select
@@ -19,3 +25,10 @@ Using this extension, the copied link is this
 `http://en.wikipedia.org/wiki/Led_Zeppelin`
 
 Works for Google Search, Google Images, Facebook Chat, Hangouts in Gmail
+
+I will put in a more appealing README later when I find the time/energy.
+
+![alt tag](http://i.imgur.com/ZrOPC6f.png)
+![alt tag](http://i.imgur.com/hYMumRm.png)
+![alt tag](http://i.imgur.com/7R8STq9.png)
+![alt tag](http://i.imgur.com/rYPk8UY.png)

@@ -1,9 +1,9 @@
 {
-  "name": "copyrealurl",
-  "title": "copyrealurl",
+  "name": "copy-real-url",
+  "title": "Copy Real Url",
   "id": "jid1-kVmhnGCi057ANQ",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Copy real urls from Google Search(inlcuding Google Images), Facebook chat and Hangouts chat",
+  "author": "ma08",
   "license": "MPL 2.0",
   "version": "0.1"
 }
