@@ -1,9 +1,16 @@
 {
-  "name": "copy-real-url",
   "title": "Copy Real Url",
-  "id": "jid1-kVmhnGCi057ANQ",
+  "name": "copy-real-url",
+  "id": "jid1-kVmhnGCi057ANQ@jetpack",
+  "version": "0.2.4",
   "description": "Copy real urls from Google Search(inlcuding Google Images), Facebook chat and Hangouts chat",
+  "main": "lib/main.js",
   "author": "ma08",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
 }
